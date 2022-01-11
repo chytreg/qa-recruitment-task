@@ -16,7 +16,7 @@ Born helps organising birthdays and gifts for team mates.
 ```bash
 # 1. set ruby's version, e.g. $ rbenv local 2.2.0
 
-# 2. run setup script and follow its instructions
+# 2. run setup script and follow its instructions:
 bin/setup
 
 # 3. create and migrate database 
